@@ -11,10 +11,8 @@ inside this repo, you will also be able to find an example project, for you to g
 1. creating your repo
 2. creating your files
 3. adding headings, subheadings, and other types of text
-4. adding buttons
-5. styling  your website
-6. using js to connect your button
-7. deploying your website !!!
+4. styling your website
+5. deploying your website !!!
 
 -----
 
@@ -91,4 +89,7 @@ congrats!! you've written your first line of code!! here are some other elements
 - additionally, you can add images using `<img src="path.jpg">` (replacing the path with your file's path inside the repo). this one doesn't have any closing tag (so no `</img>`!)
 
 have fun experimenting !!!
+
+-----
+
 
