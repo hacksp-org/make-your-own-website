@@ -128,3 +128,5 @@ im sure you can make it prettier than i did, but just do your best !! and don't 
 
 ## 5. deploying your website
 
+your website is done !! looks pretty good, doesn't it? now it's time to show it to the world :> for this, we're going to use GitHub Pages, GitHub's free
+service to host webpages. to do this, enter your repo through the GitHub website 
