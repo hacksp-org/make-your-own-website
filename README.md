@@ -143,5 +143,7 @@ and after refreshing the page, you should see it! a deployment on right side of 
 
 and that's it!!! there's your website, and a link you can share with the world :)
 
+(here's my website link btw: https://hacksp-org.github.io/make-your-own-website/)
+
 _made with <3 by tati (@itsbeesfan)_
 
