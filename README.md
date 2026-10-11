@@ -126,7 +126,22 @@ with these styling options, here's what my website ended up looking like !
 
 im sure you can make it prettier than i did, but just do your best !! and don't forget to commit your files and push your changes !!
 
+-----
+
 ## 5. deploying your website
 
 your website is done !! looks pretty good, doesn't it? now it's time to show it to the world :> for this, we're going to use GitHub Pages, GitHub's free
-service to host webpages. to do this, enter your repo through the GitHub website 
+service to host webpages. to do this, enter your repo through the GitHub website.
+
+go to your repo settings, then click on "Pages" in the bottom-left, and below "Branch", change "None" to "main" and click on "Save".
+![github-pages.gif](images/github-pages.gif)
+
+and after refreshing the page, you should see it! a deployment on right side of your screen!! click it, and it'll take you to a page that shows your link. now the world can see your website!!!
+![deployment.png](images/deployment.png)
+
+----
+
+and that's it!!! there's your website, and a link you can share with the world :)
+
+_made with <3 by tati (@itsbeesfan)_
+
