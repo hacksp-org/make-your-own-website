@@ -56,6 +56,11 @@ after this, just before `</body>`, type `<script src="script.js"></script>`. thi
 your html file should end up looking something like this:
 ![html-after-linking.png](images/html-after-linking.png)
 
+to save your changes in your repo, enter GitHub Desktop. in it, you'll see the things you updated and the files you've uploaded. in the summary, write a brief description of your changes and click on commit.
+do this every time you finish one of these sections !
+
+
+
 and now you're ready to start coding !!!
 
 -----
@@ -102,4 +107,24 @@ animal every (yes, even if my username is beesfan):
 
 
 that's awesome!! but you'll notice your website is looking a bit... _flat_. that's because you have not styled it yet!
+
+for this, head to your `style.css` file! 
+
+you'll probably want to start out by changing your website's background color and text color. you can do this by changing `background-color` (for the background) and `color` (for the font color) inside the body. it should look something like this:
+
+![style-1.png](images/style-1.png)
+
+additionally, you can change stuff like:
+- font with `font-family:`
+- font size with `font-size:` (although it's better to do it inside the specific text types like h1 or p)
+- text centering with `text-align: center`
+- others!!
+
+with these styling options, here's what my website ended up looking like !
+![website-styled.png](images/website-styled.png)
+![website-styled-code.png](images/website-styled-code.png)
+
+im sure you can make it prettier than i did, but just do your best !!
+
+## 5. deploying your website
 
