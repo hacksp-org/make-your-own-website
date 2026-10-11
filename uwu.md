@@ -56,10 +56,10 @@ after this, just before `</body>`, type `<script src="script.js"></script>`. thi
 your html file should end up looking something like this:
 ![html-after-linking.png](images/html-after-linking.png)
 
-to save your changes in your repo, enter GitHub Desktop. in it, you'll see the things you updated and the files you've uploaded. in the summary, write a brief description of your changes and click on commit. then, push 
+to save your changes in your repo, enter GitHub Desktop. in it, you'll see the things you updated and the files you've uploaded. in the summary, write a brief description of your changes and click on "Commit to main". then, "Push origin".
 do this every time you finish one of these sections !
 
-
+![commited-files.gif](images/commited-files.gif)
 
 and now you're ready to start coding !!!
 
@@ -93,7 +93,7 @@ congrats!! you've written your first line of code!! here are some other elements
 - `<p> and </p>`: paragraph text !!
 - additionally, you can add images using `<img src="path.jpg">` (replacing the path with your file's path inside the repo). this one doesn't have any closing tag (so no `</img>`!)
 
-have fun experimenting !!!
+have fun experimenting and don't forget to commit your files and push your changes !!!
 
 -----
 
@@ -124,7 +124,7 @@ with these styling options, here's what my website ended up looking like !
 ![website-styled.png](images/website-styled.png)
 ![website-styled-code.png](images/website-styled-code.png)
 
-im sure you can make it prettier than i did, but just do your best !!
+im sure you can make it prettier than i did, but just do your best !! and don't forget to commit your files and push your changes !!
 
 ## 5. deploying your website
 
