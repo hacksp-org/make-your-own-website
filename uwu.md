@@ -3,7 +3,7 @@
 
 -----
 
-in this guide, you'll be able to learn the basics of html, css and js to make your very first website !!!
+in this guide, you'll be able to learn the basics of html and css to make your very first website !!!
 
 inside this repo, you will also be able to find an example project, for you to guide yourself and get some inspo as well :3
 
@@ -92,4 +92,14 @@ have fun experimenting !!!
 
 -----
 
+## 4. styling your website
+
+you probably had some fun using different elements of html to make the website your own!! in my case, i made it about my favorite
+animal every (yes, even if my username is beesfan):
+
+![website-html.png](images/website-html.png)
+![website-html-code.png](images/website-html-code.png)
+
+
+that's awesome!! but you'll notice your website is looking a bit... _flat_. that's because you have not styled it yet!
 
