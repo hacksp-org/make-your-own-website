@@ -56,7 +56,7 @@ after this, just before `</body>`, type `<script src="script.js"></script>`. thi
 your html file should end up looking something like this:
 ![html-after-linking.png](images/html-after-linking.png)
 
-to save your changes in your repo, enter GitHub Desktop. in it, you'll see the things you updated and the files you've uploaded. in the summary, write a brief description of your changes and click on commit.
+to save your changes in your repo, enter GitHub Desktop. in it, you'll see the things you updated and the files you've uploaded. in the summary, write a brief description of your changes and click on commit. then, push 
 do this every time you finish one of these sections !
 
 
